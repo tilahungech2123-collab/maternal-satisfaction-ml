@@ -1,9 +1,8 @@
 streamlit
-joblib
 pandas
 numpy
 scikit-learn
+joblib
 matplotlib
 seaborn
 pyreadstat
-scipy
